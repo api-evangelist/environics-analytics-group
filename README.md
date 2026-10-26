@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Environics Analytics Group is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://environicsanalytics.com/
+Environics Analytics Group provides data-driven insights and analytics solutions for businesses, governments, and non‑profits. Their platform offers demographic, consumer behavior, and market segmentation data, enabling clients to make informed decisions. The company focuses on integrating rich data sources with advanced analytics tools to deliver actionable intelligence across various industries.
+
+**Areas:** Data Analytics · Consumer Segmentation · Demographic Data · Market Research · Analytics Software · Data Collaboration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://environicsanalytics.com/)
+- [Documentation](https://environicsanalytics.com/docs/default-source/webinars/environics-analytics-first-party-data-new-approaches-to-drive-revenue-and-roi-060524330552abec3d4410a4af6d2d4aa17941.pdf?sfvrsn=d6f05443_1)
+- [Terms of service](https://environicsanalytics.com/footer/terms)
+- [Privacy policy](https://environicsanalytics.com/footer/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/environics-analytics-group/](https://apis.io/providers/environics-analytics-group/).
